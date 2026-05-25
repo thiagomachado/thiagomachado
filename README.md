@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   
 <div align="center">  
-    <img src="https://streak-stats.demolab.com?user=thiagomachado&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" alt="Git Streak Status" />
+    <img src="https://streak-stats.demolab.com?user=thiagomachado&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Git Streak Status" />
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="Thiago's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thiagomachado&count_private=true&langs_count=10&include_all_commits=true&count_private=true&layout=compact&theme=shadow_blue&hide_border=true" height="192px"/>
   </a>
