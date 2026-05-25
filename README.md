@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,golang,python,ts,nodejs,php,postgres,mysql,mongodb,redis,kafka,rabbitmq,sentry,grafana,docker,k8s,aws,gcp&perline=6" /> 
+</p>
+
+<hr>
 
 ## ⚡️ Stats
 <div align="center">  
